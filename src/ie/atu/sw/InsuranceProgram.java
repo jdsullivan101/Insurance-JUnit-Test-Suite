@@ -1,7 +1,10 @@
 package ie.atu.sw;
 
 
-//Original code prior to refactoring 
+/*
+ * Original code prior to refactoring. This code should not be used to run the program but act as 
+ * an example of utilising Java SRP in order to implement software testing.
+ */
 import java.util.Scanner;
 
 public class InsuranceProgram {
